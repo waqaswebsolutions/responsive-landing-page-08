@@ -46,7 +46,7 @@ This is a fully responsive landing page built using **HTML5** and **CSS3**. It�
 
 ## 🔗 Live Demo
 
-👉 [Click here to view live](https://waqaswebsolutions.github.io/responsive-landing-page-07/)
+👉 [Click here to view live](https://waqaswebsolutions.github.io/responsive-landing-page-08/)
 
 > 💡 Replace the link above with your deployed live version once available.
 
